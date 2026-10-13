@@ -1,0 +1,10 @@
+{
+  "name": "Youth Travel Journal",
+  "short_name": "Youth Journal",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5eedf",
+  "theme_color": "#f5eedf",
+  "description": "Nhật ký du lịch vintage lưu ảnh, cảm xúc, bản đồ ký ức và hành trình."
+}
